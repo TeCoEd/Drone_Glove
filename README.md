@@ -6,6 +6,8 @@ Glove used to fly and control Parrot Drone 2.0
 # Current Controls
 Take Off, Land, Forward, Backward, Up, Down, Right, Left, Turn Right, Turn Left
 
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/oRMKiy-9vl4/0.jpg)](https://www.youtube.com/watch?v=oRMKiy-9vl4)
+
 # Still to do
 Check all connections, 
 Change flight speed
