@@ -11,5 +11,10 @@ Check all connections,
 Change flight speed
 Add 'ready' LED
 Add try and except loop
+Add auto run program when powered on
+
+# Issues
+Finger numbering and buttons need tidying up
+Finger five not turning left - check connections
 
 
