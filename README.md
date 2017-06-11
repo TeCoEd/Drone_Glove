@@ -16,7 +16,7 @@ Take Off, Land, Forward, Backward, Up, Down, Right, Left, Turn Right, Turn Left
 + Add auto run program when powered on
 
 # Issues
-Finger numbering and buttons need tidying up
-Finger five not turning left - check connections
++ Finger numbering and buttons need tidying up
++ Finger five not turning left - check connections
 
 
